@@ -17,6 +17,7 @@ spec:
       labels:
         app: planespotter-frontend
         tier: frontend
+        version: v1
     spec:
       containers:
       - name: planespotter-fe
